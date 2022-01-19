@@ -1,6 +1,6 @@
 # Add implementation with chocolate
 def add(x,y):
-    return x+y
+    return x+y for x+y
 
 # Substract inplementation with chocolate
 def substract(x,y):
