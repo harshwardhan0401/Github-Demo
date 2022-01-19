@@ -1,16 +1,16 @@
-# Add implementation
+# Add implementation with chocolate
 def add(x,y):
     return x+y
 
-# Substract inplementation
+# Substract inplementation with chocolate
 def substract(x,y):
     return x-y         #On Master branch
 
-# Multiply implementation
+# Multiply implementation with chocolate
 def multiply(x,y):
     return x*y          #On Bug456 branch
 
-# Divide implementation
+# Divide implementation with chocolate
 def divide(x,y):
     if y==0;
 	returns DIVIDE_BY_O-ERROR
