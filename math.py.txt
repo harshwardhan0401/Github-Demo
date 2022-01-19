@@ -4,7 +4,7 @@ def add(x,y):
 
 # Substract inplementation with chocolate
 def substract(x,y):
-    return x-y         #On Master branch
+    return x-y  return x-y       #from remote
 
 # Multiply implementation with chocolate
 def multiply(x,y):
